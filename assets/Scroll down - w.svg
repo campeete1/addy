@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="97.612" viewBox="0 0 25 97.612">
+  <g id="Scroll_down" data-name="Scroll down" transform="translate(1.758 64.885)">
+    <text id="Scroll" transform="translate(4.242 -64.885) rotate(90)" fill="#fff" font-size="18" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Scroll</tspan></text>
+    <g id="arrow" transform="translate(2.242 -0.868)">
+      <line id="Line_1" data-name="Line 1" y2="31.965" transform="translate(8.811 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+      <line id="Line_2" data-name="Line 2" x2="2.105" y2="12.461" transform="translate(16.133 21.665) rotate(45)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+      <line id="Line_3" data-name="Line 3" y1="12.461" x2="2.105" transform="translate(10.3 30.476) rotate(135)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
