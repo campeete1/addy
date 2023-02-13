@@ -15,7 +15,7 @@
 
 }
 .main-btn{
-    border: 2px solid #C7A7D6;
+    border: 2px solid #1c4a17;
     border-radius: 25px;
     padding: 10px 30px;
     background-color: transparent;
@@ -23,7 +23,7 @@
     font-size: 14px;
 }
 .main-btn:hover{
-    background-color: #C7A7D6;
+    background-color: #1c4a17;
 }
 .addy-btn{
     border: 2px solid #1c4a17;

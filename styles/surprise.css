@@ -67,13 +67,13 @@ h2, h4{
 #img-reel-l, #img-reel-r{
     padding: 10%;
     display: flex;
-    gap: 15px;
+    gap: 25px;
     border-radius: 25px;
     align-items: center;
     justify-content: space-between;
 }
 .addy-img{
-    max-width: 200pt;
+    max-width: 300pt;
 }
 #text-img-reel-r{
     order: 2;
@@ -100,6 +100,9 @@ h2, h4{
 }
 .reel-h1-text-r, .reel-p-text-r{
     text-align: end;
+}
+.reel-h1-text-l, .reel-p-text-l{
+    text-align: start;
 }
 @media only screen and (max-width:825px){
     .ily-container h1 {
